@@ -1,0 +1,2 @@
+# LegoSample
+Lego Game の

@@ -1,2 +1,2 @@
 # LegoSample
-Lego Game の
+Lego Game の Tutorial を記載しています、
